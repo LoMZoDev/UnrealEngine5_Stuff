@@ -1,0 +1,17 @@
+MarbleRun_Quiz_3
+
+How do we make sure that a static mesh executes an overlap event on a box trigger?
+>We need to select the static mesh in the viewport, then on the details panel check: Generate Overlap Events.
+The volume of the box trigger needs to be larger than the static mesh.
+Make sure that the box trigger is not colliding with any other actors.
+
+Why convert a float to text, before converting it to a string?
+>Because the "to text" function allows us to chop down the floats fractional value.
+Because the float needs to be text before converted to a string.
+Because otherwise the blueprint will not compile.
+
+With blueprint nodes selected, what is the hotkey for adding comment sections?
+S
+X
+R
+>C

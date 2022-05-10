@@ -1,0 +1,31 @@
+CrystalCavern_Quiz_2
+
+Which of the following is true of a player controller?
+
+A player controller consumes a pawn
+A player controller acquires a pawn
+A player controller occupies a pawn
+>A player controller possesses a pawn
+
+Which of the following is the correct class that allows us to change the default pawn for the game?
+Game state
+Game world
+>Game mode
+Game list
+
+How can we stop a camera spring arm from rolling with the player pawn?
+Make the spring arm the root component
+>Change the rotation type of the spring arm from relative to world
+Change the spring arms target arm length
+Make the spring arm a child of the camera
+
+Which type of input mapping allows you to bind inputs with a scale value?
+Action mapping
+Key mapping
+Scale mapping
+>Axis mapping
+
+Which of the following relates to the torque direction?
+World location
+World scale
+>Axis of rotation

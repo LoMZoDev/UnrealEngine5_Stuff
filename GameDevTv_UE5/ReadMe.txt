@@ -8,7 +8,7 @@ B - Unreal Engine 5 Blueprint basics fps basics
 C - Introduction to CPP Programming WITHOUT an Engine
 D - CPP Programming in Unreal Engine 5
 E - Advanced CPP Programming in Unreal Engine 5
-Z - CPP fundamentals, Using Ray Lib
+
 
 Design
 A - Enviormental Design

@@ -4,6 +4,9 @@ Enter "UNREAL SENSEI" https://www.youtube.com/c/UnrealSensei
 
 Look Unreal Sensei's two free youtube videos are both 5hours long each and cover this better
 Unreal Sensei's two free youtube videos are 10 hours of content
+<https://www.youtube.com/watch?v=gQmiqmxJMtA&t=7143s>Slightly Slower
+<https://www.youtube.com/watch?v=IQCNJ9Lpx-s&t=2737s>Slightly Faster
+
 
 Prep for those 10hours by
 Listening to this guy drone on about stuff  for less than two

@@ -23,4 +23,3 @@ F - VR Programming in Unreal Engine 5
 Design
 G - Enviormental Design in UE5 
 H - Cinematic Design in UE5 
-I - Sound Design in UE5  

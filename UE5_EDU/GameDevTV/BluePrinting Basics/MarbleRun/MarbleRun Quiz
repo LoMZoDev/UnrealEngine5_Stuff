@@ -22,7 +22,7 @@ The transform of the floor static mesh actor in the level.
 The event begin play, in the level blueprint.
 >The transform of the player start actor in the level.
 
-5)
+
 In the action menu, what category can we find keyboard events under?
 Utilities
 Add Event

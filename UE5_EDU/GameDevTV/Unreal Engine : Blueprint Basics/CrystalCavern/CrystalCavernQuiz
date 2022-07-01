@@ -1,10 +1,9 @@
 MarbleRun_Quiz
 
-Crystal Cavern Mega mixQuiz 
+Crystal Cavern Mega Mix Quiz 
 
 How can we stop a camera spring arm from rolling with the player pawn?
 >change spring arm roation from RELATIVE to WORLD spring arm rotation
-
 
 If we want to adjust the brightness of a light, which property should be changed?
 >Intensity
@@ -50,4 +49,22 @@ the game starts....(IG it has 2 do with player controllers 2)
 
 Which of the following is true of the player camera manager
 >Constant 3 Vector
----
+
+On Event Begin Overlap, what does the Other Actor return?
+>The ACTOR that caused the overlap
+
+What timeline track can we use to smoothly animate a single value?
+>FLOAT track
+
+When does the Update output on a timeline execute?
+>When the timeline plays or is running
+
+>What is a core difference between functions and macros?
+Unlike blueprint functions, macros can have multiple input and output execution pins.
+
+
+
+
+
+
+

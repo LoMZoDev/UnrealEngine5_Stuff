@@ -62,8 +62,20 @@ When does the Update output on a timeline execute?
 >What is a core difference between functions and macros?
 Unlike blueprint functions, macros can have multiple input and output execution pins.
 
+What property should we change to stop a projectile from falling over time?
+>projectile Gravity
 
+FBX is an abbreviation for:
+>Film Box
 
+Which function can we use to spawn an actor in blueprints?
+>Spawn Actor From Class
+
+Did you know?
+>When we select an actor in the level and change the value of an exposed variable, it affects only the actor we have selected.
+
+What track can we use to add an output execution pin on a timeline?
+>Event Track
 
 
 

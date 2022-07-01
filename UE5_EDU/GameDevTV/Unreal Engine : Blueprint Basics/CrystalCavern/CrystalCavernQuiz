@@ -77,6 +77,22 @@ Did you know?
 What track can we use to add an output execution pin on a timeline?
 >Event Track
 
+If we have implemented the Event Any Damage into a blueprint, when would it execute?
+>When the actor takes 1 or more than 1dmg
+
+When looking at a macro node, how can we tell if a delay is implemented inside it?
+>There is a clock SYMBOL on the Marco node
+>Just like how there is SYMBOL to expose BP vars
+
+Why use a macro library?
+>Class marcos aren't sharable to other classes of the same type/parent UNLESS 
+>A marco lib of that type/parent is made and stores the marco
+
+When is a bad time to use Get All Actors Of Class?
+>EVENT TICK
+
+If we want to a function to never be able to affect state, which kind of function should we use?
+>Pure CONST Function
 
 
 

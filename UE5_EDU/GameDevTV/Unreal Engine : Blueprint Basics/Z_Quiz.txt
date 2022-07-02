@@ -1,1 +1,176 @@
+MARBLE RUN
 
+===
+MarbleRun_Quiz_1
+
+In the Unreal Engine section of the Epic Games Launcher, where can we go to install a version of Unreal Engine 4?
+The marketplace tab
+The community tab
+>The library tab
+The learn tab
+
+Where can we see a list of all the actors that exist in a level?
+Modes tab
+Content browser
+Details tab
+>World outliner
+
+Which transform tool can we use to change the size of an actor in the viewport?
+Translate tool.
+Rotation tool.
+>Scale tool.
+
+What defines the location and rotation of the default pawn when we hit Play and the game starts?
+The transform of the floor static mesh actor in the level.
+The event begin play, in the level blueprint.
+>The transform of the player start actor in the level.
+
+
+In the action menu, what category can we find keyboard events under?
+Utilities
+Add Event
+>Input
+---
+MarbleRun_Quiz_2
+
+When affecting a transform of a static mesh actor using blueprints, how can we prevent it from unexpectedly launching other actors that are simulating physics?
+Add a delay before changing the actors transform.
+>Teleport the physics state of the static mesh actor. {there is a checkbox for transform on "AddActorWorldRotation"
+Stop simulating physics on the other actors that are simulating physics.
+
+By default, how often does Event Tick execute?
+Every minute
+Every second
+>Every frame
+Every 30 seconds
+
+How can we apply the X mouse input to the current roll rotation of an actor, before re-setting the actor rotation?
+Multiply the mouse x value by the current roll of the actor.
+Divide the mouse x value by the current roll of the actor.
+Add the mouse x value to the current pitch of the actor.
+>Add the mouse x value to the current roll of the actor
+
+Which way is NOT the best way to change the shape of a BSP brush?
+Changing the shape using the X, Y, Z values in brush shape section of the details tab.
+>Using the scale transform tool in the viewport.
+Geometry editing mode.
+
+Where can we customise and apply different types of collision models to a static mesh?
+In the viewport
+In the details tab
+>In the static mesh window editor
+In the level blueprint
+---
+MarbleRun_Quiz_3
+
+How do we make sure that a static mesh executes an overlap event on a box trigger?
+>We need to select the static mesh in the viewport, then on the details panel check: Generate Overlap Events.
+The volume of the box trigger needs to be larger than the static mesh.
+Make sure that the box trigger is not colliding with any other actors.
+
+Why convert a float to text, before converting it to a string?
+>Because the "to text" function allows us to chop down the floats fractional value.
+Because the float needs to be text before converted to a string.
+Because otherwise the blueprint will not compile.
+
+With blueprint nodes selected, what is the hotkey for adding comment sections?
+S
+X
+R
+>C
+===
+Crystal Cavern Mega Mix Quiz 
+
+How can we stop a camera spring arm from rolling with the player pawn?
+>change spring arm roation from RELATIVE to WORLD spring arm rotation
+
+If we want to adjust the brightness of a light, which property should be changed?
+>Intensity
+
+Which light actor can be utilised for ambient lighting across an entire level?
+>Sky Light
+
+What does an actor contain?
+>Components
+
+What is true regarding root components?
+>The Root Compontent is the parent component to all components
+
+Which class can be controlled directly by the player?
+>Pawn
+
+Which of the following is true of a player controller?
+>a player controller occupies a pawn
+
+Which of the following is the correct class that allows us to change the default pawn for the game?
+>game mode
+
+Which type of input mapping allows you to bind inputs with a scale value?
+>Axis mappings scale 2 directions lineary
+
+Which of the following relates to the torque direction?
+>local axis of rotation
+
+Quiz 3
+Which of the following statements is NOT true?
+>a blueprint var cannot be named
+
+Which BSP method allows us to add additional geometry to a brush?
+>extrude
+
+Which of the following is a function that returns the name of the current level?
+>get current level name
+
+Which of the following is true of the player camera manager
+>a player camera manager is
+dynamically spawned automatically when
+the game starts....(IG it has 2 do with player controllers 2)
+
+Which of the following is true of the player camera manager
+>Constant 3 Vector
+
+On Event Begin Overlap, what does the Other Actor return?
+>The ACTOR that caused the overlap
+
+What timeline track can we use to smoothly animate a single value?
+>FLOAT track
+
+When does the Update output on a timeline execute?
+>When the timeline plays or is running
+
+>What is a core difference between functions and macros?
+Unlike blueprint functions, macros can have multiple input and output execution pins.
+
+What property should we change to stop a projectile from falling over time?
+>projectile Gravity
+
+FBX is an abbreviation for:
+>Film Box
+
+Which function can we use to spawn an actor in blueprints?
+>Spawn Actor From Class
+
+Did you know?
+>When we select an actor in the level and change the value of an exposed variable, it affects only the actor we have selected.
+
+What track can we use to add an output execution pin on a timeline?
+>Event Track
+
+If we have implemented the Event Any Damage into a blueprint, when would it execute?
+>When the actor takes 1 or more than 1dmg
+
+When looking at a macro node, how can we tell if a delay is implemented inside it?
+>There is a clock SYMBOL on the Marco node
+>Just like how there is SYMBOL to expose BP vars
+
+Why use a macro library?
+>Class marcos aren't sharable to other classes of the same type/parent UNLESS 
+>A marco lib of that type/parent is made and stores the marco
+
+When is a bad time to use Get All Actors Of Class?
+>EVENT TICK
+
+If we want to a function to never be able to affect state, which kind of function should we use?
+>Pure CONST Function
+---
+Mars Marine QUIZ the one and only

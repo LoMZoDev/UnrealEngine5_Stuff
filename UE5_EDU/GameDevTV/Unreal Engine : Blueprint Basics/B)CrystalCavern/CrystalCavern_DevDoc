@@ -1,0 +1,113 @@
+CrystalCavern_DevDoc
+
+https://drive.google.com/file/d/1ovVLYhvOrOcDOvmltul2HZVQEVtxdVLu/view?usp=sharing
+
+^ UE5 PROJECT FILE ^
+
+
+QUIZ BELOW
+Holy fuck man I'm struggling I'm like 3 levels deep on that and I got redo it as a whole as project so I get the point. I got a couple good random ass screens. 
+I will have the the project file with some comments on this dev docBLAH BLAH blah some other stuff here and there but it's finally done. 
+
+It honestly wouldn't hurt to go back through these courses and perfect 'em because I got the gist of this project but did some things differently
+such as a default char instead of ball torque and I also did the level switching manually through Level BPs rather than just using an array
+
+BUT I am getting better and as stated before "It honestly wouldn't hurt to go back through these courses and perfect 'em"
+
+
+---
+rystal Cavern Mega Mix Quiz 
+
+How can we stop a camera spring arm from rolling with the player pawn?
+>change spring arm roation from RELATIVE to WORLD spring arm rotation
+
+If we want to adjust the brightness of a light, which property should be changed?
+>Intensity
+
+Which light actor can be utilised for ambient lighting across an entire level?
+>Sky Light
+
+What does an actor contain?
+>Components
+
+What is true regarding root components?
+>The Root Compontent is the parent component to all components
+
+Which class can be controlled directly by the player?
+>Pawn
+
+Which of the following is true of a player controller?
+>a player controller occupies a pawn
+
+Which of the following is the correct class that allows us to change the default pawn for the game?
+>game mode
+
+Which type of input mapping allows you to bind inputs with a scale value?
+>Axis mappings scale 2 directions lineary
+
+Which of the following relates to the torque direction?
+>local axis of rotation
+
+Quiz 3
+Which of the following statements is NOT true?
+>a blueprint var cannot be named
+
+Which BSP method allows us to add additional geometry to a brush?
+>extrude
+
+Which of the following is a function that returns the name of the current level?
+>get current level name
+
+Which of the following is true of the player camera manager
+>a player camera manager is
+dynamically spawned automatically when
+the game starts....(IG it has 2 do with player controllers 2)
+
+Which of the following is true of the player camera manager
+>Constant 3 Vector
+
+On Event Begin Overlap, what does the Other Actor return?
+>The ACTOR that caused the overlap
+
+What timeline track can we use to smoothly animate a single value?
+>FLOAT track
+
+When does the Update output on a timeline execute?
+>When the timeline plays or is running
+
+>What is a core difference between functions and macros?
+Unlike blueprint functions, macros can have multiple input and output execution pins.
+
+What property should we change to stop a projectile from falling over time?
+>projectile Gravity
+
+FBX is an abbreviation for:
+>Film Box
+
+Which function can we use to spawn an actor in blueprints?
+>Spawn Actor From Class
+
+Did you know?
+>When we select an actor in the level and change the value of an exposed variable, it affects only the actor we have selected.
+
+What track can we use to add an output execution pin on a timeline?
+>Event Track
+
+If we have implemented the Event Any Damage into a blueprint, when would it execute?
+>When the actor takes 1 or more than 1dmg
+
+When looking at a macro node, how can we tell if a delay is implemented inside it?
+>There is a clock SYMBOL on the Marco node
+>Just like how there is SYMBOL to expose BP vars
+
+Why use a macro library?
+>Class marcos aren't sharable to other classes of the same type/parent UNLESS 
+>A marco lib of that type/parent is made and stores the marco
+
+When is a bad time to use Get All Actors Of Class?
+>EVENT TICK
+
+If we want to a function to never be able to affect state, which kind of function should we use?
+>Pure CONST Function
+---
+

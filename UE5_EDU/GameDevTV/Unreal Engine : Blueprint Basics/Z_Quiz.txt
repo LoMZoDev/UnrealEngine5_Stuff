@@ -174,3 +174,19 @@ If we want to a function to never be able to affect state, which kind of functio
 >Pure CONST Function
 ---
 Mars Marine QUIZ the one and only
+What does the Character class inherit from?
+>PAWN
+
+The following is a true statement:
+>A sketel mesh has a skeleton and bones that are used to animate
+the mesh
+
+When a character class moves throughout the world, what component is actually moving throughout the world?
+>The Capsule Component that is the ROOT
+all other children components follow it
+
+What can we use to link different groups of animations?
+>STATE MACHINEs
+
+State Machines: How do we determine which state to go into?
+>Transition Rules

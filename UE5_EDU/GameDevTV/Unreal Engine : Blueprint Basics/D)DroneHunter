@@ -1,0 +1,39 @@
+https://drive.google.com/file/d/1tEst1FvAcdJc5oZ7DESKT1K7Km0Wb7f1/view?usp=sharing
+
+^DroneHunterV1 ZIP GOOGLE DRIVE LINK
+
+HERE ARE MY NOTES FROM DOING THE PROJECT :
+
+>Remember to hit compile all the time
+^It Will ensure things play nice 
+^^across the whole game 
+
+>State Machines can go within StateMachines
+
+>I put an addational 30/35 trying to work on a crouch
+^It's scuffed though, after 10min/15 I shoulda moved on
+^^oh weell ; )
+
+>Problem solving is part of being a programmer
+^So when something of the course is outta date time 2 be resourceful
+^^This is dangerous because it can slowly but surly get 1 off task
+
+>Sometimes its best to go out of context and force it
+^and sometimes is best to restart and follow the refference exactly
+^^and once comfy go back through for custom impS.
+
+>Did you know X is the foreward vector(red)
+>damn bro I got diff sounds for drone hits u and u kill drone
+
+
+>Optimize stuff for performance
+^Overlap events for the drones only need to happen with the player
+
+>Unlike marsMarine I pushed all the way through not skipping bits @ the end
+^it's like lego's perservence till the end and getting the job done counts
+
+>There can be a lot of stuff in game mode BP
+>Multiple WBP's can be on the screen @ once
+
+>This project has started to imporve how comfy
+I feel casting / making BP's talk to eachother
